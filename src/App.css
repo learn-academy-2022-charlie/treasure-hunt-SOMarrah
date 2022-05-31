@@ -1,0 +1,20 @@
+.game-board{
+  display: flex;
+  flex-wrap: wrap;
+  width: 612px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+
+.square{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  font-size: 160px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
